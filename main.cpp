@@ -44,7 +44,7 @@ int main(int argc, char* argv[]) {
 //     pNewObject = NULL;
 
 
-    for (int i = 0; i < 2; i++) {
+    for (int i = 0; i < 28; i++) {
         pNewObject = new CFly();
         pNewObject->init(pRendered, "img\\FlyTr.bmp", i*100, i*100, 34, 30, 1);
         vAll.push_back(pNewObject);

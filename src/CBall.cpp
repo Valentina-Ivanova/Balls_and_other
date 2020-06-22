@@ -32,6 +32,8 @@ void CBall::init(SDL_Renderer* pRenderer, string file_name, int x, int y, int w_
     m_rPosition.h = 30 + rand()%10;
     m_rPosition.w = m_rPosition.h;
 
+    /// to use scale
+
     m_nSpeed = rand() % 30;
 
     return;

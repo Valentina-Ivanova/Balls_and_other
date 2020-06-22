@@ -50,7 +50,7 @@ int main(int argc, char* argv[]) {
         vAll.push_back(pNewObject);
     }
 
-    for (int i = 0; i < 2; i++) {
+    for (int i = 0; i < 6; i++) {
         pNewObject = new CKomar();
         pNewObject->init(pRendered, "img\\komar.bmp", i*20+500, i*20+500, 200, 142, 0.3);
         vAll.push_back(pNewObject);

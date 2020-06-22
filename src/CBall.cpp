@@ -24,7 +24,7 @@ void CBall::init(SDL_Renderer* pRenderer, string file_name, int x, int y, int w_
 
     pTmp = SDL_LoadBMP(file_name.c_str());
     m_pTexture = SDL_CreateTextureFromSurface(m_pRenderer, pTmp);
-    SDL_SetTextureColorMod(m_pTexture, x*25, 255-y*2, (x+y)*2);
+    SDL_SetTextureColorMod(m_pTexture, x*25, 255-y*2, x/5 + y*3);
     SDL_FreeSurface(pTmp);
 
     m_rPosition.x = x + rand()%20;

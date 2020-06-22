@@ -390,7 +390,7 @@
 	<cmath>
 	"CKomar.h"
 
-1592837270 source:c:\users\raya\desktop\github\balls_and_other\main.cpp
+1592837293 source:c:\users\user\documents\github\balls_and_other\main.cpp
 	<iostream>
 	<SDL2/SDL.h>
 	<SDL2/SDL_mixer.h>
@@ -399,7 +399,7 @@
 	"CFly.h"
 	"CKomar.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_assert.h"
@@ -432,12 +432,12 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_main.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_stdinc.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -466,27 +466,27 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_config.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_config.h
 	"SDL_platform.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_platform.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_platform.h
 	"AvailabilityMacros.h"
 	"TargetConditionals.h"
 	<winapifamily.h>
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\begin_code.h
+1592837293 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\begin_code.h
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\close_code.h
+1592837293 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\close_code.h
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_assert.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_assert.h
 	"SDL_config.h"
 	"begin_code.h"
 	<signal.h>
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_atomic.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_atomic.h
 	"SDL_stdinc.h"
 	"SDL_platform.h"
 	"begin_code.h"
@@ -494,7 +494,7 @@
 	<mbarrier.h>
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_audio.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -504,24 +504,24 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_error.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_endian.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_endian.h
 	"SDL_stdinc.h"
 	<endian.h>
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_mutex.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_thread.h
+1592837293 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_atomic.h"
@@ -532,18 +532,18 @@
 	<stdlib.h>
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_rwops.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_clipboard.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_clipboard.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_cpuinfo.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	<intrin.h>
 	<intrin.h>
@@ -562,7 +562,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_events.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
@@ -576,7 +576,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_video.h
+1592837293 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -584,13 +584,13 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_pixels.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_pixels.h
 	"SDL_stdinc.h"
 	"SDL_endian.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_rect.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_rect.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_pixels.h"
@@ -598,7 +598,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_surface.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_surface.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -607,11 +607,11 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_blendmode.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_blendmode.h
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_keyboard.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keycode.h"
@@ -619,27 +619,27 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_keycode.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_keycode.h
 	"SDL_stdinc.h"
 	"SDL_scancode.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_scancode.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_scancode.h
 	"SDL_stdinc.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_mouse.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_joystick.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_gamecontroller.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_gamecontroller.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
@@ -647,11 +647,11 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_quit.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_gesture.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_gesture.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
@@ -659,66 +659,66 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_touch.h
+1592837293 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_touch.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_filesystem.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_filesystem.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_haptic.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_haptic.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_joystick.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_hints.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_hints.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_loadso.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_log.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_log.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_messagebox.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_messagebox.h
 	"SDL_stdinc.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_power.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_power.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_render.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_render.h
 	"SDL_stdinc.h"
 	"SDL_rect.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_sensor.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_sensor.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_shape.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_shape.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -727,7 +727,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_system.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_system.h
 	"SDL_stdinc.h"
 	"SDL_keyboard.h"
 	"SDL_render.h"
@@ -735,18 +735,18 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_timer.h
+1592837293 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_timer.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_version.h
+1592837293 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\dep_sdl\include\sdl2\sdl_mixer.h
+1592837292 c:\users\user\documents\github\balls_and_other\dep_sdl\include\sdl2\sdl_mixer.h
 	"SDL_stdinc.h"
 	"SDL_rwops.h"
 	"SDL_audio.h"
@@ -755,32 +755,29 @@
 	"begin_code.h"
 	"close_code.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\include\cball.h
+1592837293 c:\users\user\documents\github\balls_and_other\include\cball.h
 	<CMovingObject.h>
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\include\cmovingobject.h
+1592837293 c:\users\user\documents\github\balls_and_other\include\cmovingobject.h
 	<string>
 	<SDL2/SDL.h>
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\include\cfly.h
+1592837293 c:\users\user\documents\github\balls_and_other\include\cfly.h
 	"CMovingObject.h"
 
-1592837270 c:\users\raya\desktop\github\balls_and_other\include\ckomar.h
+1592837293 c:\users\user\documents\github\balls_and_other\include\ckomar.h
 	"CFly.h"
 
-1592837270 source:c:\users\raya\desktop\github\balls_and_other\src\cball.cpp
+1592837293 source:c:\users\user\documents\github\balls_and_other\src\cball.cpp
 	<iostream>
 	"CBall.h"
 
-1592837270 source:c:\users\raya\desktop\github\balls_and_other\src\cfly.cpp
+1592837293 source:c:\users\user\documents\github\balls_and_other\src\cfly.cpp
 	<iostream>
 	"CFly.h"
 
-1592837270 source:c:\users\raya\desktop\github\balls_and_other\src\ckomar.cpp
+1592837293 source:c:\users\user\documents\github\balls_and_other\src\ckomar.cpp
 	<iostream>
 	<cmath>
 	"CKomar.h"
-
-1592837270 source:c:\users\raya\desktop\github\balls_and_other\src\cmovingobject.cpp
-	"CMovingObject.h"
 

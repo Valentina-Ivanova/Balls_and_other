@@ -390,7 +390,7 @@
 	<cmath>
 	"CKomar.h"
 
-1593356335 source:c:\users\user\documents\github\balls_and_other\main.cpp
+1593359109 source:c:\users\user\documents\github\balls_and_other\main.cpp
 	<iostream>
 	<SDL2/SDL.h>
 	<SDL2/SDL_mixer.h>
@@ -785,11 +785,11 @@
 1592837293 source:c:\users\user\documents\github\balls_and_other\src\cmovingobject.cpp
 	"CMovingObject.h"
 
-1593356004 source:c:\users\user\documents\github\balls_and_other\src\cstar.cpp
+1593359242 source:c:\users\user\documents\github\balls_and_other\src\cstar.cpp
 	<iostream>
 	<cmath>
 	"CStar.h"
 
-1593353666 c:\users\user\documents\github\balls_and_other\include\cstar.h
-	"CKomar.h"
+1593358839 c:\users\user\documents\github\balls_and_other\include\cstar.h
+	"CFly.h"
 

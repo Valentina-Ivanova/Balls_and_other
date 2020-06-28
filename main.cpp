@@ -57,9 +57,9 @@ int main(int argc, char* argv[]) {
         vAll.push_back(pNewObject);
     }
 
-    for (int i = 0; i < 6; i++) {
+    for (int i = 0; i < 2; i++) {
         pNewObject = new CStar();
-        pNewObject->init(pRendered, "img\\starTr.bmp", i*10+300, i*10+300, 32, 32, 1);
+        pNewObject->init(pRendered, "img\\starTr.bmp", i*100+300, i*100+500, 32, 32, i+1);
         vAll.push_back(pNewObject);
     }
 

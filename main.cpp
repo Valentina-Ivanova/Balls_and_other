@@ -10,6 +10,7 @@ using namespace std;
 #include "CBall.h"
 #include "CFly.h"
 #include "CKomar.h"
+#include "CStar.h"
 
 
 
@@ -36,7 +37,7 @@ int main(int argc, char* argv[]) {
     vector<CMovingObject*> vAll;
 
 
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < 3; i++) {
         pNewObject = new CBall();
         pNewObject->init(pRendered, "img\\ball_small.bmp", i*50, i*50, 30, 30, i);
         vAll.push_back(pNewObject);
@@ -44,15 +45,21 @@ int main(int argc, char* argv[]) {
 //     pNewObject = NULL;
 
 
-    for (int i = 0; i < 28; i++) {
+    for (int i = 0; i < 2; i++) {
         pNewObject = new CFly();
         pNewObject->init(pRendered, "img\\FlyTr.bmp", i*100, i*100, 34, 30, 1);
         vAll.push_back(pNewObject);
     }
 
-    for (int i = 0; i < 6; i++) {
+    for (int i = 0; i < 2; i++) {
         pNewObject = new CKomar();
         pNewObject->init(pRendered, "img\\komar.bmp", i*20+500, i*20+500, 200, 142, 0.3);
+        vAll.push_back(pNewObject);
+    }
+
+    for (int i = 0; i < 6; i++) {
+        pNewObject = new CStar();
+        pNewObject->init(pRendered, "img\\starTr.bmp", i*10+300, i*10+300, 32, 32, 1);
         vAll.push_back(pNewObject);
     }
 

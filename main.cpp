@@ -11,6 +11,7 @@ using namespace std;
 #include "CFly.h"
 #include "CKomar.h"
 #include "CStar.h"
+#include "CHeart.h"
 
 
 
@@ -59,7 +60,13 @@ int main(int argc, char* argv[]) {
 
     for (int i = 0; i < 2; i++) {
         pNewObject = new CStar();
-        pNewObject->init(pRendered, "img\\starTr.bmp", i*100+300, i*100+500, 32, 32, i+1);
+        pNewObject->init(pRendered, "img\\starTr.bmp", i*100+300, i*100+500, 32, 32, 3-i);
+        vAll.push_back(pNewObject);
+    }
+
+    for (int i = 0; i < 4; i++) {
+        pNewObject = new CHeart();
+        pNewObject->init(pRendered, "img\\heart.bmp", i*100+500, i*100+200, 32, 32, 1);
         vAll.push_back(pNewObject);
     }
 

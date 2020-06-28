@@ -43,9 +43,14 @@
 			<Add directory="dep_sdl/lib" />
 		</Linker>
 		<Unit filename="include/CBall.h" />
+		<Unit filename="include/CFly.h" />
+		<Unit filename="include/CKomar.h" />
 		<Unit filename="include/CMovingObject.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/CBall.cpp" />
+		<Unit filename="src/CFly.cpp" />
+		<Unit filename="src/CKomar.cpp" />
+		<Unit filename="src/CMovingObject.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
